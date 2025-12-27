@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+textblob
+vaderSentiment
+gensim
+bertopic
+sentence-transformers
+jupyter
+notebook
+streamlit
+joblib
